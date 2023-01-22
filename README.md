@@ -32,5 +32,5 @@ Summary Statistics for the months of June and December
 ## helpful to know. Additionally, a query can be written to calculate the chance of rain where the shops are located specifically. 
  
 
-
-
+References: 
+https://docs.sqlalchemy.org/en/14/core/sqlelement.html#sqlalchemy.sql.expression.extract
