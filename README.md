@@ -28,7 +28,8 @@ Summary Statistics for the months of June and December
 ## * Tourists may be more likely to visit in June due to hotter temperatures 
 
 ## Summary: 
-With hotter weather, it would probably be more likely to rain as well. Perhaps writing a query that would determine if the weather is rainy or sunny, would be helpful to know. Additionally, a query can be written to calculate the chance of rain where the shops are located specifically. 
+## With hotter weather, it would probably be more likely to rain as well. Perhaps writing a query that would determine if the weather is rainy or sunny, would be 
+## helpful to know. Additionally, a query can be written to calculate the chance of rain where the shops are located specifically. 
  
 
 
